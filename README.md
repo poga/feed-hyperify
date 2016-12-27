@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/feed-hyperify.svg)](https://www.npmjs.com/package/hyperfeed) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-convert a RSS/ATOM feed to [hyperfeed](https://github.com/poga/hyperfeed)
+a crawler to convert RSS/ATOM feed to [hyperfeed](https://github.com/poga/hyperfeed)
 
 `npm i feed-hyperify`
 
