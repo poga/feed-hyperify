@@ -1,6 +1,6 @@
 # feed-hyperify
 
-[![NPM Version](https://img.shields.io/npm/v/feed-hyperify.svg)](https://www.npmjs.com/package/hyperfeed) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![NPM Version](https://img.shields.io/npm/v/feed-hyperify.svg)](https://www.npmjs.com/package/feed-hyperify) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 a crawler to convert RSS/ATOM feed to [hyperfeed](https://github.com/poga/hyperfeed)
 
