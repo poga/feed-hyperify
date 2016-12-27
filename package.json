@@ -1,0 +1,25 @@
+{
+  "name": "feed-hyperify",
+  "version": "1.0.0",
+  "description": "convert a rss/atom feed to hyperfeed",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "hyperfeed",
+    "RSS"
+  ],
+  "author": "Poga Po<poga.bahamut@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inherits": "^2.0.3",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "hyperfeed": "^2.4.0",
+    "openport": "0.0.4",
+    "rss": "^1.2.1",
+    "tape": "^4.6.3"
+  }
+}
