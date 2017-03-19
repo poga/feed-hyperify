@@ -10,6 +10,7 @@
     "hyperfeed",
     "RSS"
   ],
+  "repository": "poga/feed-hyperify",
   "author": "Poga Po<poga.bahamut@gmail.com>",
   "license": "MIT",
   "dependencies": {
