@@ -1,6 +1,6 @@
 {
   "name": "feed-hyperify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert a rss/atom feed to hyperfeed",
   "main": "index.js",
   "scripts": {
